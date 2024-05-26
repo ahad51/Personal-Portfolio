@@ -31,7 +31,7 @@ const SplashScreen = () => {
                 exit={{ opacity: 0, x: -200 }}
                 transition={{ duration: 1.6, ease: "easeInOut", delay: 0.2 }}
               >
-                Anything
+                Welocome
               </motion.span>
               <motion.span
                 key="animated-span-2"
@@ -44,7 +44,7 @@ const SplashScreen = () => {
                   fontWeight: 'bold'
                 }}
               >
-                is
+                to
               </motion.span>
               <motion.span
                 key="animated-span-3"
@@ -54,7 +54,7 @@ const SplashScreen = () => {
 
                 transition={{ duration: 1, ease: "easeInOut", delay: 0.5 }}
               >
-                possible
+                Abdul Ahad Portfolio
               </motion.span>
             </>
           )}

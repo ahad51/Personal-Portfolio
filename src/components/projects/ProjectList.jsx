@@ -22,7 +22,7 @@ const Project = ({ item }) => {
         src={item.image} 
         alt="project image" 
         className="image"
-        width='auto'
+    
         height='auto'
       />
       <div className="details">

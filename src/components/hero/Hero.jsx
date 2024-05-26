@@ -50,9 +50,9 @@ const Hero = () => {
           <motion.p 
             variants={textVariants}
           >Hello, my name is</motion.p>
-          <motion.h2 variants={textVariants}>IKENNA RICHARD</motion.h2>
+          <motion.h2 variants={textVariants}>Abdul Ahad</motion.h2>
           <motion.p variants={textVariants} style={{width: '65%', margin: '0 auto'}}>
-            Frontend Engineer
+            FullStack Engineer
           </motion.p>
           <motion.div 
             className={`buttons 
@@ -76,8 +76,9 @@ const Hero = () => {
         variants={sliderVariants}
         initial='initial'
         animate='animate'
+        style={{fontSize:"120px",color:"red"}}
       >
-        Content is like water
+        Reat / Node / Express / Mongo DB/ SQL / Python / Django
       </motion.div>
     </div>
   )

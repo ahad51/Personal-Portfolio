@@ -37,11 +37,11 @@ const Contact = () => {
         <h2>Lets work together</h2>
         <div className="contact-item">
           <h2>Mail</h2>
-          <span>oguejioforrichard@gmail.com</span>
+          <span>ahad51860@gmail.com</span>
         </div>
         <div className="contact-item">
           <h2>Phone</h2>
-          <span>+2347085748219</span>
+          <span>+923164604761</span>
         </div>
         <div className="socials">
           <Social/>

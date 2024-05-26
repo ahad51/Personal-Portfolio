@@ -1,30 +1,28 @@
+
 {
   "projects": [
     {
     "id": 1,
-    "title": "Intro Section",
-    "description": "Intro section of a website with a navigation menu that sets the tone for the rest of the site. It includes a call to action, and a navigation menu to guide users to different sections of the site.",
-    "image": "/images/projects/Intro-section-with-dropdown-navigation.png",
-    "source": "https://github.com/ikennarichard/Intro-section-with-dropdown-navigation",
-    "live_demo": "https://ikennarichard.github.io/Intro-section-with-dropdown-navigation/"
+    "title": "Champion Choice",
+    "description": "Champion Choice is basically a betting application that is primarily used for betting on major football leagues. It has gained quite a few users, and this app has also been launched in the USA",
+    "image": "/images/cc.png",
+    "live_demo": "https://develop.dv4ggj4bs89r1.amplifyapp.com"
     },
 
     {
       "id": 2,
-      "title": "Rest Countries",
-      "description": "This project offers a user-friendly and informative platform for exploring global data on countries, making it accessible to users with diverse interests and needs. Built with Reactjs",
-      "image": "/images/projects/Rest-Countries.png",
-      "source": "https://github.com/ikennarichard/REST-Countries-API-with-color-theme-switcher",
-      "live_demo": "https://timely-caramel-422843.netlify.app/"
+      "title": "Gnizzel",
+      "description": "Gnizzel is basically a dental app that connects patients and dentists, allowing customers to create or access deals. It's a MEAN stack application.",
+      "image": "/images/Gnizzel.png",
+      "live_demo": "https://develop.d1hgvlsczywkrt.amplifyapp.com/"
     },
 
     {
-      "id": 3,
-      "title": "Quiz App",
-      "description": "This is a simple quiz app. Built with Vuejs, Vue Router and Pinia",
-      "image": "/images/projects/quizzy.png",
-      "source": "https://github.com/ikennarichard/quiz-app",
-      "live_demo": "https://quizzy-richard.netlify.app"
+      "id": 3,  
+      "title": "Career Guidance",
+      "description": "Career Guidance is basically a platform for students and professionals where they can schedule their tasks on the calendar and can also create their resumes here.",
+      "image": "/images/Career.png",
+      "live_demo": "https://www.myguidance.ie/"
     }
   ]
 }

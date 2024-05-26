@@ -30,18 +30,7 @@ const Project = () => {
           <motion.h2 className='project-heading' variants={variants}>Selected Projects</motion.h2>
 
           <motion.div variants={variants} className='links-list'>
-            <ul>
-              {
-                data.projects.map((item) => (
-                  <li key={item.id}>
-                    <a href={`#${item.title}`}  className='project-links' >
-                      {item.title.toLowerCase()}
-                    </a>
-                  </li>
-                  
-                ))
-              }
-            </ul>
+        
           </motion.div>
         </div>
         </motion.div>

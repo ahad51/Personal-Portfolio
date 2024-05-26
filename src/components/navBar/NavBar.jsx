@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import Sidebar from '../sidebar/Sidebar';
 import Social from '../social/Social';
-import Logo from '../logo/Logo';
 import './navbar.sass'
 
 const NavBar = () => {
@@ -14,7 +13,6 @@ const NavBar = () => {
             animate={{ opacity: 1, translateX: 0}}
             transition={{ duration: 1.5 }}
           >
-            <Logo/>
           </motion.div>
           <motion.div 
             className="social"
